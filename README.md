@@ -8,4 +8,5 @@
 
 🔹 <b> JavaScript </b>
 
+Para visualizar o projeto clique <a href="https://keelcoutinho.github.io/memory-game/"> aqui </a>.
 #### Obrigada pela visita! 😄
